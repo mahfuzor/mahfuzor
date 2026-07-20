@@ -164,3 +164,10 @@ Thanks for visiting my profile! ⭐
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfuzor&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ❤️</b>
+  <br><br>
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
