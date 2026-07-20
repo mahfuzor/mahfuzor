@@ -141,3 +141,10 @@ Thanks for visiting my profile! ⭐
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzor&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,git,github,vscode,firebase,androidstudio,linux" />
+</p>
