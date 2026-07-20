@@ -1,9 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="Mahfuzor Rahman Banner" width="100%">
 </p>
-<p align="center">
-  <img src="./banner.png" alt="Mahfuzor Rahman Banner" width="100%">
-</p>
+
 <h1 align="center">Hello, World! 👋</h1>
 
 <h3 align="center">I'm Mahfuzor Rahman</h3>
